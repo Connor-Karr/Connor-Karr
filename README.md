@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Connor 👋
 
-<!--
-**Connor-Karr/Connor-Karr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's where you can find me:
+* [My LinkedIn ](https://www.linkedin.com/in/connorkarr/)
+* [My Website](https://www.connorkarr.com)
+* [My Old Github Account](https://github.com/ConCars)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A bit more information...
+```javascript
+const amy = {
+  pronouns: "he" | "him",
+  education: {
+      school: "Northeastern University",
+      major: "Computer Science and Economics",
+      year: 3
+  },
+  code: [Java, JavaScript, TypeScript, Python, HTML, CSS, Racket]
+}
+```
