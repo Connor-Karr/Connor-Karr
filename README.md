@@ -7,7 +7,7 @@ Here's where you can find me:
 
 A bit more information...
 ```javascript
-const amy = {
+const connor = {
   pronouns: "he" | "him",
   education: {
       school: "Northeastern University",
